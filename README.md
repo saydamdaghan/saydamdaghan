@@ -1,16 +1,18 @@
 <div align="center">
 
-# Hi, I'm Hüseyin Dağhan Saydam 👋
-
-### Software Developer • Problem Solver • Technology Enthusiast
-
-I enjoy building things, experimenting with new technologies,
-and turning ideas into working projects.
-
-<br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Hüseyin%20Dağhan%20Saydam&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 
 <a href="https://github.com/saydamdaghan">
-  <img src="https://img.shields.io/badge/GitHub-saydamdaghan-181717?style=for-the-badge&logo=github" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Software+Developer;Technology+Enthusiast;Always+Learning+Something+New;Building+Ideas+Into+Projects" alt="Typing SVG" />
+</a>
+
+<br><br>
+
+<a href="https://github.com/saydamdaghan">
+<img src="https://img.shields.io/github/followers/saydamdaghan?style=for-the-badge&logo=github&label=Followers" />
+</a>
+<a href="https://github.com/saydamdaghan?tab=repositories">
+<img src="https://img.shields.io/github/stars/saydamdaghan?style=for-the-badge&logo=github&label=Stars" />
 </a>
 
 </div>
@@ -19,98 +21,76 @@ and turning ideas into working projects.
 
 ## 👨‍💻 About Me
 
-* 🚀 Currently building and experimenting with software projects
-* 💻 Interested in **software development, automation and embedded systems**
-* 🧠 Continuously improving my programming skills
-* 🔧 I enjoy understanding how things work and building them myself
-* 📚 Always learning something new
+I'm a developer who enjoys **building, experimenting and learning**.
+
+I like turning ideas into real projects and exploring how different technologies work together.
+
+* 💻 Software Development
+* 🔧 Embedded Systems & Arduino
+* 🌐 Web Development
+* 🐍 Python
+* ⚡ JavaScript
+* 🎯 Always learning and improving
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=python,cs,js,html,css,lua,git,github,vscode,arduino" />
-
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 📡 Arduino Radar
-
-A real-time radar visualization system built using:
-
-**Arduino + HC-SR04 Ultrasonic Sensor + Python + Pygame**
-
-The project visualizes ultrasonic sensor data as a real-time radar interface.
-
-🔗 [View Project](https://github.com/saydamdaghan/arduino-radar)
-
----
-
-### 🐼 Find The Panda
-
-A simple JavaScript-based game where the goal is to find the hidden panda.
-
-🔗 [View Project](https://github.com/saydamdaghan/findthepanda)
-
----
-
-### 🌐 Portfolio Website
-
-A personal portfolio website built with JavaScript.
-
-🔗 [View Project](https://github.com/saydamdaghan/portfolio-site)
-
----
-
-## 📊 GitHub Statistics
-
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=saydamdaghan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=saydamdaghan&theme=tokyonight&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=python,cs,js,html,css,lua,arduino,git,github,vscode&perline=5" />
 
 </div>
 
 ---
 
-## 💻 Languages
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saydamdaghan&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=saydamdaghan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saydamdaghan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=saydamdaghan&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 📌 Current Focus
+## 🚀 What I'm Working On
 
 ```text
-Software Development
-        ↓
-Problem Solving
-        ↓
-Building Real Projects
-        ↓
-Learning New Technologies
-        ↓
-Becoming Better Every Day
+Learning
+   ↓
+Experimenting
+   ↓
+Building
+   ↓
+Breaking Things
+   ↓
+Fixing Them
+   ↓
+Learning Again 🚀
 ```
 
 ---
 
 <div align="center">
 
-### "Build. Break. Learn. Repeat." 🚀
+### 💙 Thanks for visiting my profile!
+
+If you find something interesting in my repositories,
+feel free to ⭐ a project.
 
 <br>
 
-⭐ If you find something interesting in my repositories, feel free to star it!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer" />
 
 </div>
