@@ -1,18 +1,19 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Hüseyin%20Dağhan%20Saydam&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=220&section=header&text=SAYDAM%20DAGHAN&fontSize=55&fontColor=58A6FF&fontAlignY=45&desc=SOFTWARE%20DEVELOPER&descSize=18&descAlignY=65&descColor=8B949E" width="100%"/>
 
-<a href="https://github.com/saydamdaghan">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Software+Developer;Technology+Enthusiast;Always+Learning+Something+New;Building+Ideas+Into+Projects" alt="Typing SVG" />
-</a>
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+things+that+actually+work.;Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Python+%7C+C%23+%7C+JavaScript;Always+learning.+Always+building." />
 
 <br><br>
 
 <a href="https://github.com/saydamdaghan">
-<img src="https://img.shields.io/github/followers/saydamdaghan?style=for-the-badge&logo=github&label=Followers" />
+<img src="https://img.shields.io/github/followers/saydamdaghan?style=flat-square&logo=github&label=Followers&color=58A6FF" />
 </a>
+&nbsp;
 <a href="https://github.com/saydamdaghan?tab=repositories">
-<img src="https://img.shields.io/github/stars/saydamdaghan?style=for-the-badge&logo=github&label=Stars" />
+<img src="https://img.shields.io/github/stars/saydamdaghan?style=flat-square&logo=github&label=Stars&color=58A6FF" />
 </a>
 
 </div>
@@ -21,26 +22,49 @@
 
 ## 👨‍💻 About Me
 
-I'm a developer who enjoys **building, experimenting and learning**.
+I'm a developer interested in **full-stack development, modern web technologies and software engineering**.
 
-I like turning ideas into real projects and exploring how different technologies work together.
+I enjoy taking an idea from concept to a working product and continuously improving my technical skills through real-world projects.
 
-* 💻 Software Development
-* 🔧 Embedded Systems & Arduino
-* 🌐 Web Development
-* 🐍 Python
-* ⚡ JavaScript
-* 🎯 Always learning and improving
+```text
+💡 Idea
+  ↓
+🧠 Learn
+  ↓
+⚙️ Build
+  ↓
+🐛 Debug
+  ↓
+🚀 Ship
+```
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🧰 Tech Stack
 
-<div align="center">
+### Languages
 
-<img src="https://skillicons.dev/icons?i=python,cs,js,html,css,lua,arduino,git,github,vscode&perline=5" />
+<p>
+<img src="https://skillicons.dev/icons?i=python,cs,js,lua" />
+</p>
 
-</div>
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,arduino" />
+</p>
 
 ---
 
@@ -48,9 +72,9 @@ I like turning ideas into real projects and exploring how different technologies
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=saydamdaghan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=saydamdaghan&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saydamdaghan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saydamdaghan&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 
 </div>
 
@@ -58,39 +82,48 @@ I like turning ideas into real projects and exploring how different technologies
 
 <div align="center">
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=saydamdaghan&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=saydamdaghan&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
 ---
 
-## 🚀 What I'm Working On
+## 🚀 Currently Exploring
+
+<div align="center">
+
+|   🌐 Web   |      ⚙️ Backend      | 🧠 Programming |
+| :--------: | :------------------: | :------------: |
+|    React   |        Node.js       |     Python     |
+|   Next.js  |         APIs         |       C#       |
+| JavaScript | Backend Architecture |   Algorithms   |
+
+</div>
+
+---
+
+## 🔭 What I Like Building
 
 ```text
-Learning
-   ↓
-Experimenting
-   ↓
-Building
-   ↓
-Breaking Things
-   ↓
-Fixing Them
-   ↓
-Learning Again 🚀
+🌐 Web Applications
+⚡ Interactive Interfaces
+🔌 Hardware & Embedded Projects
+🤖 Automation
+🧩 Tools & Experiments
 ```
 
 ---
 
 <div align="center">
 
-### 💙 Thanks for visiting my profile!
-
-If you find something interesting in my repositories,
-feel free to ⭐ a project.
+### ⚡ Build. Learn. Improve.
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer" />
+<img src="https://komarev.com/ghpvc/?username=saydamdaghan&style=flat-square&color=58A6FF&label=PROFILE+VIEWS" />
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer" width="100%"/>
 
 </div>
