@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=220&section=header&text=SAYDAM%20DAGHAN&fontSize=55&fontColor=58A6FF&fontAlignY=45&desc=SOFTWARE%20DEVELOPER&descSize=18&descAlignY=65&descColor=8B949E" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=220&section=header&text=DAGHAN%20SAYDAM&fontSize=55&fontColor=58A6FF&fontAlignY=45&desc=SOFTWARE%20DEVELOPER&descSize=18&descAlignY=65&descColor=8B949E" width="100%"/>
 
 <br>
 
@@ -21,22 +21,9 @@
 ---
 
 ## 👨‍💻 About Me
+I’m a Computer Engineering student, constantly working on projects across different fields to improve my skills and build products and SaaS applications.
 
-I'm a developer interested in **full-stack development, modern web technologies and software engineering**.
-
-I enjoy taking an idea from concept to a working product and continuously improving my technical skills through real-world projects.
-
-```text
-💡 Idea
-  ↓
-🧠 Learn
-  ↓
-⚙️ Build
-  ↓
-🐛 Debug
-  ↓
-🚀 Ship
-```
+I’ve been involved in software development for around 5 years. My goal is to embrace the most optimized and efficient way of working alongside AI and become a highly productive and effective engineer.
 
 ---
 
@@ -88,7 +75,7 @@ I enjoy taking an idea from concept to a working product and continuously improv
 
 ---
 
-## 🚀 Currently Exploring
+## 🚀 Currently Exploring On
 
 <div align="center">
 
@@ -116,7 +103,6 @@ I enjoy taking an idea from concept to a working product and continuously improv
 
 <div align="center">
 
-### ⚡ Build. Learn. Improve.
 
 <br>
 
